@@ -31,4 +31,4 @@ If you find PersonaLive useful for your research, welcome to 🌟 this repo and 
 
 
 ## ❤️ Acknowledgement
-This project is based on [X-NeMo](https://byteaigc.github.io/X-Portrait2/), [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) and [RAIN](https://pscgylotti.github.io/pages/RAIN/), thanks to their invaluable contributions.
+This project is based on [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone), [X-NeMo](https://byteaigc.github.io/X-Portrait2/), [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion), [RAIN](https://pscgylotti.github.io/pages/RAIN/) and [LivePortrait](https://github.com/KlingTeam/LivePortrait), thanks to their invaluable contributions.
