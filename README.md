@@ -7,6 +7,8 @@
 #### [Zhiyuan Li<sup>1,2,3</sup>](https://huai-chang.github.io/) · [Chi-Man Pun<sup>1</sup>](https://cmpun.github.io/) 📪 · [Chen Fang<sup>2</sup>](http://fangchen.org/) · [Jue Wang<sup>2</sup>](https://scholar.google.com/citations?user=Bt4uDWMAAAAJ&hl=en) · [Xiaodong Cun<sup>3</sup>](https://vinthony.github.io/academic/) 📪
 <sup>1</sup> University of Macau  &nbsp;&nbsp; <sup>2</sup> [Dzine.ai](https://www.dzine.ai/)  &nbsp;&nbsp; <sup>3</sup> [GVC Lab, Great Bay University](https://gvclab.github.io/)
 
+<h5>⚡️ Real-time, Infinite-Length Portrait Animation requires only ~12GB VRAM ⚡️</h5>
+
 <img src="assets/demo_1.gif" width="40%"> &nbsp;&nbsp; <img src="assets/demo_2.gif" width="40%">
 </div>
 
@@ -86,7 +88,7 @@ source start.sh
 ```
 
 #### TensorRT (Optional)
-Converting the model to TensorRT can significantly speed up inference (~ 2$\times$). Building the engine may take about `20 minutes` depending on your device. Note that TensorRT optimizations may lead to slight variations or a small drop in output quality.
+Converting the model to TensorRT can significantly speed up inference (~ 2x). Building the engine may take about `20 minutes` depending on your device. Note that TensorRT optimizations may lead to slight variations or a small drop in output quality.
 ```
 python torch2trt.py
 ```
