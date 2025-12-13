@@ -9,7 +9,7 @@
 
 <img src="assets/highlight.svg" alt="highlight" width="95%">
 
-<img src="assets/demo_3.gif" width="46%"> &nbsp;&nbsp; <img src="assets/demo_2.gif" width="40%">
+<img src="assets/demo_3.gif" width="46%"> &nbsp;&nbsp; <img src="assets/demo_2.gif" width="40.5%">
 </div>
 
 ## 📣 Updates
